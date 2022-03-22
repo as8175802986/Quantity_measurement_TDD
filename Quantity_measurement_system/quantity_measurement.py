@@ -212,17 +212,3 @@ class Quantity_measurement:
         return l
 
 
-# if __name__ == '__main__':
-#     Quantity_measurement.feet_to_inch_value(1)
-#     Quantity_measurement.length_comparison(20, "inch")
-#     Quantity_measurement.feet_to_inch_value(2)
-#     Quantity_measurement.inch_to_feet_value(12)
-#     print(Quantity_measurement.km_to_meter(4.75), "meters")
-#     print(Quantity_measurement.meter_to_kms(1500), "kms")
-#     print(Quantity_measurement.fahrenheit_to_celcius(50), "Celsius")
-#     print(Quantity_measurement.celcius_fahrenheit(0), "fahrenheit")
-#     print(Quantity_measurement.length_comparison(12, "inch"))
-#     print(Quantity_measurement.distance_comparison(2000, "meter"))
-#     Quantity_measurement.length_addition_in_feet(60, "inch", 5, "feet")
-#     Quantity_measurement.distance_addition_in_km(1000, "meter", 5, "km")
-#     Quantity_measurement.temperature_addition_in_celcius(50, "fahrenheit", 10, "celcius")
